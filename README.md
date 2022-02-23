@@ -15,7 +15,7 @@ Basic python program created that will play prompt in the form of drums.wav file
 -  Utilize AWS lambda in order to backup sound files to the cloud (utlize wifi chip onboard)
 
 ## Current Hardware
--  Raspberry Pi Zero W
+-  Raspberry Pi Zero W on Raspbian OS Lite
 -  MicroSD card large enough for operating system + wav files created from guests
 -  Amazon Maono USB microphone (implanted into phone)
 -  Amazon USB/wireless speaker (implanted into phone)
